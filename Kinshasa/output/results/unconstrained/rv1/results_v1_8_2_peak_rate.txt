@@ -1,0 +1,10 @@
+greedy_results_03_03_2026_08_09_42.joblib
+gr_tabu_results_03_03_2026_08_09_42.joblib
+aco_results_03_03_2026_10_31_31.joblib
+ga_results_03_03_2026_09_23_12.joblib
+gr_sa_results_03_03_2026_08_34_13.joblib
+pso_results_03_03_2026_09_53_45.joblib
+sa_results_03_03_2026_08_37_13.joblib
+no_init_tabu_results_03_03_2026_08_18_23.joblib
+
+revisionv1.0-WS1.2
