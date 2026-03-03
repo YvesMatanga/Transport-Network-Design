@@ -7,5 +7,6 @@
   "n_runs": 1,
   "folder": "base",
   "C": 1400,
+  "alpha":0.15,
   "demand_scale":1.0
 }
