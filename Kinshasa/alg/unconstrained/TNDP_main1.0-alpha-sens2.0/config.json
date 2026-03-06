@@ -1,0 +1,12 @@
+{
+  "Budget": 100,
+  "v_avg": 40,
+  "penalty_factor": 1000000000,
+  "optim_max_iter": 200,
+  "optim_pop_size": 20,
+  "n_runs": 5,
+  "folder": "alpha2.0",
+  "C": 1400,
+  "alpha":0.3,
+  "demand_scale":1.0
+}

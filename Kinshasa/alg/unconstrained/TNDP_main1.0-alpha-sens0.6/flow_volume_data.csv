@@ -1,0 +1,35 @@
+Rank,u,u_label,v,v_label,Edge name,flow volume
+1,16,Échangeur 1,17,Masina,Échangeur 1 - Masina,2178.9040000000014
+2,16,Échangeur 1,29,Limete PL,Échangeur 1 - Limete PL,1802.687999919638
+3,6,Bd du 30 Juin,10,Pierre Mulele,Bd du 30 Juin - Pierre Mulele,1724.7879990613797
+4,15,Lemba,16,Échangeur 1,Lemba - Échangeur 1,1710.5199990524698
+5,1,Route de Matadi (border Kinshasa),27,Benseke,Route de Matadi (border Kinshasa) - Benseke,1670.34
+6,2,Triangle Matadi Kibala,28,Wenze Matadi Kibala,Triangle Matadi Kibala - Wenze Matadi Kibala,1670.34
+7,27,Benseke,28,Wenze Matadi Kibala,Benseke - Wenze Matadi Kibala,1670.34
+8,11,Triangle Campus,12,Rond Point Ngaba,Triangle Campus - Rond Point Ngaba,1654.5959988410505
+9,2,Triangle Matadi Kibala,11,Triangle Campus,Triangle Matadi Kibala - Triangle Campus,1654.595998831607
+10,16,Échangeur 1,30,Limete R,Échangeur 1 - Limete R,1608.5120000734103
+11,7,Gare Centrale,29,Limete PL,Gare Centrale - Limete PL,1556.687999801592
+12,10,Pierre Mulele,14,Bd Triomphal,Pierre Mulele - Bd Triomphal,1523.8879990272853
+13,13,Av. de l'Université,30,Limete R,Av. de l'Université - Limete R,1362.5119996099722
+14,6,Bd du 30 Juin,7,Gare Centrale,Bd du 30 Juin - Gare Centrale,1325.1199986458248
+15,13,Av. de l'Université,14,Bd Triomphal,Av. de l'Université - Bd Triomphal,1282.6439990195045
+16,12,Rond Point Ngaba,15,Lemba,Rond Point Ngaba - Lemba,1251.9759987759728
+17,18,Av. Ndjoku,19,Aéroport Ndjili,Av. Ndjoku - Aéroport Ndjili,1158.0040000000015
+18,17,Masina,18,Av. Ndjoku,Masina - Av. Ndjoku,1158.0040000000015
+19,5,Mont Ngaliema,6,Bd du 30 Juin,Mont Ngaliema - Bd du 30 Juin,897.243999430878
+20,2,Triangle Matadi Kibala,3,UPN,Triangle Matadi Kibala - UPN,803.435999125132
+21,9,Sanatorium,10,Pierre Mulele,Sanatorium - Pierre Mulele,756.6959996344425
+22,8,Selembao (Auto Stop),9,Sanatorium,Selembao (Auto Stop) - Sanatorium,645.5039995770561
+23,3,UPN,8,Selembao (Auto Stop),UPN - Selembao (Auto Stop),637.3039995102607
+24,20,Nsele,21,RP Nsele,Nsele - RP Nsele,541.6920000000001
+25,21,RP Nsele,22,Menkao,RP Nsele - Menkao,541.6920000000001
+26,19,Aéroport Ndjili,20,Nsele,Aéroport Ndjili - Nsele,541.6920000000001
+27,12,Rond Point Ngaba,13,Av. de l'Université,Rond Point Ngaba - Av. de l'Université,371.1319990155856
+28,3,UPN,4,Av. de l'École – Binza,UPN - Av. de l'École – Binza,166.13199925923232
+29,4,Av. de l'École – Binza,5,Mont Ngaliema,Av. de l'École – Binza - Mont Ngaliema,124.47599913642169
+30,21,RP Nsele,23,Maluku,RP Nsele - Maluku,2.5928334469638205e-39
+31,25,UNIKIN,26,Kimwenza 2,UNIKIN - Kimwenza 2,1.5258216782283654e-39
+32,2,Triangle Matadi Kibala,24,Arrêt Gare,Triangle Matadi Kibala - Arrêt Gare,-3.938263691980448e-41
+33,12,Rond Point Ngaba,25,UNIKIN,Rond Point Ngaba - UNIKIN,-9.443422682136699e-09
+34,11,Triangle Campus,25,UNIKIN,Triangle Campus - UNIKIN,-9.443422682136699e-09
